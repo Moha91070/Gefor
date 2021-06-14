@@ -1,0 +1,7 @@
+soft delete ajouter un champs dans la table candidat un booleen qui informera si l'utilisateur est supprimé ou pas.
+
+Design voir le flexbox en css pour rendre la page responsive.
+
+javascript pour la validation des formulaires
+
+regarder les bonnes pratiques UI design.
